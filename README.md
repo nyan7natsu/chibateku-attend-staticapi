@@ -2,7 +2,11 @@
 「ちばてくあてんど」の静的WebAPIです．  
 果たしてこれをAPIと呼んでいいかは疑問ですが．
 
-# `suggest.json`
+# [Suggest API](suggest.json)
 
 確認できた教室番号がここに格納されます．  
-アプリからHTTP経由で呼び出されます．
+アプリからHTTPS経由で呼び出されます．
+
+`suggest.schema.json`のスキーマに則ります．
+
+追加はIssue/PRからではなく，フォームから受け付けております．
