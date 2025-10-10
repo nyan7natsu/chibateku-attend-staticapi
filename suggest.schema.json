@@ -5,6 +5,9 @@
     "properties": {
         "$schema": {
             "type": "string"
+        },
+        "updated": {
+            "type": "string"
         }
     },
     "patternProperties": {
